@@ -1,5 +1,4 @@
 var express = require('express');
-var config  = require('npm-config');
 var path    = require('path');
 var PORT    = 3000;
 
